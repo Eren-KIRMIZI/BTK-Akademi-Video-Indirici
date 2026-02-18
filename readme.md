@@ -106,3 +106,8 @@ pip install requests yt-dlp
 - Token'ın bir **geçerlilik süresi** vardır. Hata alırsanız yeni bir token alın.
 - Yalnızca **kayıtlı olduğunuz** kursların videolarını indirebilirsiniz.
 - İndirilen içerikler yalnızca **kişisel kullanım** içindir.
+
+<img width="669" height="22" alt="image" src="https://github.com/user-attachments/assets/4a4384b5-195d-4ec6-ad1e-a37f325f817d" />
+<img width="382" height="174" alt="image" src="https://github.com/user-attachments/assets/8b4e142b-292f-4d38-9d7b-59d43a339764" />
+<img width="996" height="282" alt="image" src="https://github.com/user-attachments/assets/1a58eb56-8e0d-41aa-904f-f3c3185673e5" />
+<img width="1317" height="645" alt="image" src="https://github.com/user-attachments/assets/dd0dd36a-c3b5-4481-8442-1a3201ae2174" />
